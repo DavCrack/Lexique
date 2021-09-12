@@ -10,10 +10,16 @@ J'ai créé ce fichier dans le cadre d'un micro-projet afin de revoir les manipu
 
 * **Client:** C'est un logiciel capable d'envoyer des requêtes HTTP à un serveur dans le but d'afficher un site ou une appli web. Le client web est donc un navigateur tel que Chrome ou Firefox. 
 
-* **CSS:** Acronyme de Cascading Style Sheets. C'est un langage utilisé pour la mise en forme de fichiers et/ou de pages HTML.
+* **CSS:** Acronyme de Cascading Style Sheets. C'est un langage informatique utilisé pour la mise en forme de fichiers et/ou de pages HTML.
 
 * **Front-end:** En terme de développement, c'est l'ensemble des éléments visibles et accessible sur un site ou une appli web. C'est l'opposé du Back-end.
 
 * **Git:** C'est un logiciel de gestion de versions décentralisé, open source et gratuit. C'est aujourd'hui, et depuis des années, un outil incontournable pour tous les développeurs.
 
 * **GitHub:** C'est un site web proposant d'héberger à distance des projets en cours de développement. Il permet de conserver en ligne les sauvegardes d'un projet pour ne pas les perdre si un problème survient en local.
+
+* **HTML:** Acronyme de HyperText Markup Langage. C'est un langage informatique utilisé pour créer des sites web. Il est associé au CSS qui se charge de mettre en forme son contenu.
+
+* **Intégration:** C'est le processus de transpostion d'un design web en code HMTL/CSS. Le designer web conçoit une maquette d'un site et le développeur web la recréée sous forme de code.
+
+* **JavaScript:** C'est un langage informatique utilisé pour créer du contenu graphique mis à jour de facon dynamique sur des pages web. Il est également à la base du contenu intéractif les sites web.
