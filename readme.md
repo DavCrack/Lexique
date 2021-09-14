@@ -35,3 +35,5 @@ J'ai créé ce fichier dans le cadre d'un micro-projet afin de revoir les manipu
 * **SQL:** Acronyme de Structured Query Language. C'est un langage informatique serveur ayant pour but de communiquer avec une base de données.
 
 * **Terminal:** C'est un programme qui fournit une interface textuelle pour la saisie de commande afin de permettre à l'utilisateur d'intéragir avec la machine.
+
+commit
